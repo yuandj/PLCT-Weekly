@@ -1,7 +1,7 @@
 # PLCT OpenDay 2020
 
-第12届开源开发工具大会（OSDT Conf，原 HelloGCC Workshop）将于12月5-6日（周六周日）线上举办。本次大会将与PLCT实验室的年度开放日（PLCT OpenDay 2020）协调举办。
-开源开发工具大会是由OSDT社区（原名HelloGCC社区）组织的一年一度的开发者交流大会，我们在这里分享自己在开源软件方面的开发工作，研究成果，经验学习。话题主要面向开源开发工具，包括 GCC、Binutils、GDB、GLibc、Clang/LLVM、QEMU、Gem5、Chisel/FIRRTL、MLIR、TVM、CIRCT等。
+第12届开源开发工具大会（OSDT Conf，原 HelloGCC Workshop）将于12月5-6日（周六周日）线上举办。本次大会将与PLCT实验室的年度开放日（PLCT OpenDay 2020）协调举办。  
+开源开发工具大会是由OSDT社区（原名HelloGCC社区）组织的一年一度的开发者交流大会，我们在这里分享自己在开源软件方面的开发工作，研究成果，经验学习。话题主要面向开源开发工具，包括 GCC、Binutils、GDB、GLibc、Clang/LLVM、QEMU、Gem5、Chisel/FIRRTL、MLIR、TVM、CIRCT等。  
 本次大会将与PLCT实验室的年度开放日（PLCT OpenDay 2020）协调举办。PLCT Lab 全称是「程序语言与编译技术实验室」，隶属于中国科学院软件所（ISCAS）智能软件研究中心（ISRC）。每年12月份会举办一次开放日（OpenDay）活动，向外界展示和介绍这一年来PLCT做过的好玩的技术尝试，以及我们认为在某些角落改变世界的成果。此次开放日是PLCT第2次举办，欢迎来现场一起享受技术交流的快乐。（由于疫情今年还是不要来了，全线上。）
 
 ## 赞助商感谢
@@ -29,48 +29,48 @@ NOTE：书籍跟开发板原先打算现场赠送给提问者以及抽奖赠送�
 ## 时间及议程
 
 ### 2020年12月4日（周五）
-09:00-09:30	设备准备等
-90:30-10:00	吴伟：PLCT Lab Roadmap 2021
-10:00-10:30	邱吉：V8 for RISC-V：从何处来、往何处去
-10:30-11:00	邢明杰：RISC-V向量扩展指令架构及编译器支持
-11:00-11:30	史宁宁：方舟编译器与 Android Runtime
-11:30-12:00	赵伟峰：九层之台，起于累土 —— TenonStudio2020功能及特性介绍
-12:00-14:00	Break
-14:00-14:30	许中兴：TenonStudio涉及的技术领域
-14:30-15:00	汪达：机器人描述语言SDFormat介绍
-15:00-15:30	张洪滨：使用MLIR完成一个端到端的编译流程
-15:30-16:00	张尹：基于RISC-V向量扩展的OpenCV优化
-16:00-16:30	廖春玉：RVV-Intrinsic 在 Clang 中的实现
-16:30-17:00	陈小欧：LLVM测试框架介绍
+09:00-09:30	设备准备等  
+90:30-10:00	吴伟：PLCT Lab Roadmap 2021  
+10:00-10:30	邱吉：V8 for RISC-V：从何处来、往何处去  
+10:30-11:00	邢明杰：RISC-V向量扩展指令架构及编译器支持  
+11:00-11:30	史宁宁：方舟编译器与 Android Runtime  
+11:30-12:00	赵伟峰：九层之台，起于累土 —— TenonStudio2020功能及特性介绍  
+12:00-14:00	Break  
+14:00-14:30	许中兴：TenonStudio涉及的技术领域  
+14:30-15:00	汪达：机器人描述语言SDFormat介绍  
+15:00-15:30	张洪滨：使用MLIR完成一个端到端的编译流程  
+15:30-16:00	张尹：基于RISC-V向量扩展的OpenCV优化  
+16:00-16:30	廖春玉：RVV-Intrinsic 在 Clang 中的实现  
+16:30-17:00	陈小欧：LLVM测试框架介绍  
 17:00-17:30	（预留报告位）
 
 ### 2020年12月5日（周六）
-09:30-10:00	设备准备等
-10:00-10:30	吴章金：人生苦短，我用 Linux Lab 学内核与嵌入式
-10:30-11:00	张先轶：基于RISC-V向量指令集优化基础计算软件生态
-11:00-11:30	杨文章：面向IoT领域的程序设计语言——DeepLang
-11:30-12:00	汪辰：制作一个 RISC-V 平台上的最小安卓系统
-12:00-14:00	break
-14:00-14:30	安龙飞：C++20协程简介和应用
-14:30-15:00	陈嘉炜：RISC-V Binutils 简介
-15:00-15:30	陆旭凡：RISC-V Vector object in stack and implementation on LLVM
-15:30-16:00	陆亚涵：V8中的指针压缩及其实现源码分析
-16:00-16:30	陶立强：V8寄存器分配源码分析——以添加RISCV-C扩展为背景
-16:30-17:00	千里冰封：演讲题目待定
+09:30-10:00	设备准备等  
+10:00-10:30	吴章金：人生苦短，我用 Linux Lab 学内核与嵌入式  
+10:30-11:00	张先轶：基于RISC-V向量指令集优化基础计算软件生态  
+11:00-11:30	杨文章：面向IoT领域的程序设计语言——DeepLang  
+11:30-12:00	汪辰：制作一个 RISC-V 平台上的最小安卓系统  
+12:00-14:00	break  
+14:00-14:30	安龙飞：C++20协程简介和应用  
+14:30-15:00	陈嘉炜：RISC-V Binutils 简介  
+15:00-15:30	陆旭凡：RISC-V Vector object in stack and implementation on LLVM  
+15:30-16:00	陆亚涵：V8中的指针压缩及其实现源码分析  
+16:00-16:30	陶立强：V8寄存器分配源码分析——以添加RISCV-C扩展为背景  
+16:30-17:00	千里冰封：演讲题目待定  
 17:00-17:30	闪电演讲（提前或现场报名）
 
 ### 2020年12月6日（周日）
-09:30-10:00	设备准备等
-10:00-11:00	MaskRay：TBD（演讲题目待定）
-11:00-11:30	叶锦云：华为与GCC/LLVM（是否出席待定）
-11:30-12:00	闪电演讲环节
-12:00-14:00	break
-14:00-14:30	王萌：RT-Thread 的 USB-Host 在树莓派上的实现进展
-14:30-15:00	张定立
-15:00-15:30	王俊强：QEMU 中 RISC-V SoC 的新增与实现 -- 以 NucLei SoC 为例
-15:30-16:00	李威威：Spike 扩展方式简介
-16:00-16:30	郭任：TBD（是否出席待定）
-16:30-17:00	sequencer：TBD（演讲题目待定）
+09:30-10:00	设备准备等  
+10:00-11:00	MaskRay：TBD（演讲题目待定）  
+11:00-11:30	叶锦云：华为与GCC/LLVM（是否出席待定）  
+11:30-12:00	闪电演讲环节  
+12:00-14:00	break  
+14:00-14:30	王萌：RT-Thread 的 USB-Host 在树莓派上的实现进展  
+14:30-15:00	张定立  
+15:00-15:30	王俊强：QEMU 中 RISC-V SoC 的新增与实现 -- 以 NucLei SoC 为例  
+15:30-16:00	李威威：Spike 扩展方式简介  
+16:00-16:30	郭任：TBD（是否出席待定）  
+16:30-17:00	sequencer：TBD（演讲题目待定）  
 17:00-17:30	闪电演讲环节
 
 ## 演讲内容介绍
@@ -119,10 +119,10 @@ TenonStudio2020功能及特性介绍。
 
 **张洪滨：使用MLIR完成一个端到端的编译流程**
 
-以一个简单的例子介绍使用 MLIR 完成从计算图到 X86/RISC-V 平台上的编译通路
-报告人简介：
-中科院软件所智能软件研究中心PLCT实验室学生
-MLIR社区贡献者 (MLIR Python Bindings)
+以一个简单的例子介绍使用 MLIR 完成从计算图到 X86/RISC-V 平台上的编译通路  
+报告人简介：  
+中科院软件所智能软件研究中心PLCT实验室学生  
+MLIR社区贡献者 (MLIR Python Bindings)  
 知乎/B站 - 法斯特豪斯
 
 **张尹：基于RISC-V向量扩展的OpenCV优化**
@@ -228,17 +228,17 @@ TBD
 
 **张定立：Java on RISCV简介与毕昇JDK HiFive Unleashed测试**
 
-张定立
-1.介绍目前Java世界对于RISC-V的支持;
-2.简介毕昇JDK for RV64并介绍其在HiFive Unleashed上的调试方法;
-3.分析毕昇JDK for RV64开源后从qemu到HiFive Unleashed的crash问题以及对应的第一个patch的代码分析
+张定立  
+1.介绍目前Java世界对于RISC-V的支持;  
+2.简介毕昇JDK for RV64并介绍其在HiFive Unleashed上的调试方法;  
+3.分析毕昇JDK for RV64开源后从qemu到HiFive Unleashed的crash问题以及对应的第一个patch的代码分析  
 4.分享SPECjvm2008与DaCapo-9.12-bach-MR1等benchmark的测试结果
 
 张定立是PLCT实验室虚拟机分支 OpenJDK for RISC-V 项目组成员。
 
 **王俊强：QEMU 中 RISC-V SoC 的新增与实现 -- 以 NucLei SoC 为例**
 
-如何在QMEU现有的RISC-V架构下新增Nuclei Soc，主要介绍(指令)，csr，eclic，
+如何在QMEU现有的RISC-V架构下新增Nuclei Soc，主要介绍(指令)，csr，eclic，  
 timer，uart等新增内容的原理与实现，以及如何组合成gd32vf103 和 hummingbird board来运行裸机程序和Linux系统
 
 王俊强是PLCT实验室模拟器分支的QEMU项目主管。
